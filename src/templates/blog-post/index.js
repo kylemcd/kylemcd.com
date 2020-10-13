@@ -175,7 +175,7 @@ const BlogPost = ({ data, location }) => {
                     </ShareButtons>
                     <TwitterPromo/>
                     <RecommendedArticles slug={slug}/>
-                    <NewsletterContainer>
+                    {/* <NewsletterContainer>
                         <Heading>
                             Well if you made it this far...
                         </Heading>
@@ -189,7 +189,7 @@ const BlogPost = ({ data, location }) => {
                                 <Button type="submit">Go!</Button>
                             </FieldContainer>
                         </form>
-                    </NewsletterContainer>
+                    </NewsletterContainer> */}
                 </PostContainer>
             </Container>
         </Default>
