@@ -13,7 +13,7 @@ import {
 const HomeNewsletter = () => {
     return (
         <Container>
-            <Heading>
+            {/* <Heading>
                 Subscribe to my newsletter
             </Heading>
             <Paragraph>
@@ -25,7 +25,7 @@ const HomeNewsletter = () => {
                     <Field name="EMAIL" id="mce-EMAIL" required/>
                     <Button type="submit">Go!</Button>
                 </FieldContainer>
-            </form>
+            </form> */}
         </Container>
     );
 }
