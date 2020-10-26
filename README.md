@@ -2,7 +2,7 @@
 Built with React + Gatsby
 
 ## Boilerplate
-This repo was originally created from [gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog)
+This repo was originally created from [gatsby-starter-blog](https://github.com/gatsbyjs/gatsby-starter-blog).
 
 ## Installing
 `npm install`
