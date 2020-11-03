@@ -19,7 +19,7 @@ I found myself recording at the wee hours of the morning to accommodate guests f
 
 ## So, now what?
 
-I'm pivoting. I love creating content that people enjoy. If you follow me on [Twitter](https://twitter.com/designbykyle), that is pretty clear, but this time around, I want to do it on my own accord. I want to be able to produce content when I want, about what I want. I don't want to feel mandated to provide content to meet an arbitrary goal set for myself. But, most importantly, I want to be the only one contributing to this goal.
+I'm pivoting. I love creating content that people enjoy. If you follow me on [Twitter](https://twitter.com/kpmdev), that is pretty clear, but this time around, I want to do it on my own accord. I want to be able to produce content when I want, about what I want. I don't want to feel mandated to provide content to meet an arbitrary goal set for myself. But, most importantly, I want to be the only one contributing to this goal.
 
 So what does this look like? Pivoting to a solo podcast?? No. I'm going to focus on writing, and what you're reading now is the first of it. Writing provides me the arena to explore topics that I wouldn't be able to convey with a podcast. I can focus on subjects like programming, business, personal viewpoints, or whatever else I want all under the roof of my personal brand. I don't want to niche myself into a corner, as I did with git reset. Mainly, I want an outlet I can expand upon my thoughts in a way that I can't fit into a tweet. 
 

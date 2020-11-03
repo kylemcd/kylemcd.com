@@ -26,7 +26,7 @@ As stated before, when the opportunity arises to show off the skills you are str
 ## Have an informative personal site
 When viewing someone's resumé, the first thing I tend to get excited about is if the candidate has a personal site, and more importantly, how it looks. It's pretty easy to conclude that candidates with creative sites will stand out from the rest, bonus points if the code is available on GitHub. You can use your site to play into your strengths. So from the get-go, the interviewer is already aware of how your strengths differ from others.
 
-How do you make your site creative, though? Here are some great ones I've found, but search around for inspiration. (If you have sites that you think should be on this list [Tweet at me](https://twitter.com/designbykyle))
+How do you make your site creative, though? Here are some great ones I've found, but search around for inspiration. (If you have sites that you think should be on this list [Tweet at me](https://twitter.com/kpmdev))
 - [https://zach.dev/](https://zach.dev/)
 - [https://sunnysingh.io/](https://sunnysingh.io/)
 - [https://joshmanders.com/](https://joshmanders.com/)

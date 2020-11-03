@@ -17,7 +17,7 @@ const Footer = () => {
             <SocialList>
                 <SocialListItem>
                     <SocialListLink 
-                        href="https://twitter.com/designbykyle"
+                        href="https://twitter.com/kpmdev"
                         target="_blank"
                         rel="noopener"
                     >

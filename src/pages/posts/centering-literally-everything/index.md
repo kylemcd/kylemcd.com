@@ -260,4 +260,4 @@ Apply the same rules we used on text and there you go, we have a centered elemen
 &nbsp;
 ## Conclusion
 
-As you see, centering stuff with CSS really isn't _that_ hard. Of course you'll run into examples that may not fit this mold, but from experience, this will solve 90% of your centering problems. If you *do* run into an instance where this mold doesn't work for you [tweet at me](https://twitter.com/designbykyle), I'd be happy to help.
+As you see, centering stuff with CSS really isn't _that_ hard. Of course you'll run into examples that may not fit this mold, but from experience, this will solve 90% of your centering problems. If you *do* run into an instance where this mold doesn't work for you [tweet at me](https://twitter.com/kpmdev), I'd be happy to help.

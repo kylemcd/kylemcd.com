@@ -21,7 +21,7 @@ const TwitterPromo = () => {
                     Follow me on Twitter to stay up to date on my latest posts
                 </Paragraph>
                 <TwitterFollowButton
-                    screenName={'designbykyle'}
+                    screenName={'kpmdev'}
                 />
             </Content>
         </Container>

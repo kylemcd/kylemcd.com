@@ -20,4 +20,4 @@ I plan on utilizing this blog **A LOT** more then I did my previous blog. I'm sh
 I've been wanting to start up a mailing list of people that are interested in what I do for a while. I would love if you [subscribed](http://eepurl.com/dPFcO9), I promise I won't spam you and only send you really awesome content ❤️ I want to use this as a springboard for my future projects to get people interested early without having to go and find the people that already follow me!
 
 ## In Conclusion...
-I really enjoyed building out my new site/blog/mailing list and if there is anything you think I can improve on with any of those three things please let me know via [Twitter](https://twitter.com/@designbykyle) 😊
+I really enjoyed building out my new site/blog/mailing list and if there is anything you think I can improve on with any of those three things please let me know via [Twitter](https://twitter.com/@kpmdev) 😊

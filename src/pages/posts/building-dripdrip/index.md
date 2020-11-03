@@ -21,12 +21,12 @@ I decided to take an app approach to this problem. For someone to track their wa
 During the build I kept a dev log on Twitter, which was a lot of fun! Every new feature was documented as I was building it and I was able to get instant feedback from the community! Checkout the thread below 👇
 
 <div style="display: flex; justify-content: center; width: 100%;">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In an effort to make sure I build dripdrip in the open for <a href="https://twitter.com/fixathon?ref_src=twsrc%5Etfw">@fixathon</a> , I&#39;m going to start a devlog (thread) to describe what I&#39;ve done so far to update as I finish features! Check out what I&#39;ve done so far below 👇</p>&mdash; Kyle 🤙 (@DesignByKyle) <a href="https://twitter.com/DesignByKyle/status/1149123809267634176?ref_src=twsrc%5Etfw">July 11, 2019</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In an effort to make sure I build dripdrip in the open for <a href="https://twitter.com/fixathon?ref_src=twsrc%5Etfw">@fixathon</a> , I&#39;m going to start a devlog (thread) to describe what I&#39;ve done so far to update as I finish features! Check out what I&#39;ve done so far below 👇</p>&mdash; Kyle 🤙 (@kpmdev) <a href="https://twitter.com/kpmdev/status/1149123809267634176?ref_src=twsrc%5Etfw">July 11, 2019</a></blockquote>
 </div>
 <br/>
 
 ## How you can use it
-The app is now done and live over at [https://dripdrip.app](https://dripdrip.app)! I would recommend going to it on your phone and then adding the app to your homescreen. You can then start tracking your water usage everyday! Let me know how you do over on [Twitter](https://twitter.com/designbykyle), your results may surprise you!!
+The app is now done and live over at [https://dripdrip.app](https://dripdrip.app)! I would recommend going to it on your phone and then adding the app to your homescreen. You can then start tracking your water usage everyday! Let me know how you do over on [Twitter](https://twitter.com/kpmdev), your results may surprise you!!
 
 ## In Conclusion
 Participating in the [Fixathon](https://fixathon.io) was a lot of fun! It was nice to take a break from normal side projects and build something that was fresh and also has the potential to make a difference! Thank you so much to the organizers of this, such a great idea and you all excuted it perfectly! 
